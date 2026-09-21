@@ -7,4 +7,4 @@
 - [terminal trove](https://terminaltrove.com/explore)
 - [plain text project](https://plaintextproject.online/tools.html)
 - [plain text world](https://plaintextworld.com/)
-- [scores](https://plaintextsports.com/)
+- [sport scores](https://plaintextsports.com/)
