@@ -19,7 +19,7 @@ paginate: 5
 paginate_path: "/assets/blog/page:num"
 permalink: /assets/blog/posts/:year/:month/:day/:title:output_ext
 # (boolean) Enable/disable download buttons in sidebar
-show_downloads: true
+show_downloads: false
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 # (string) folder where wiki pages are stored, it's needed for tool buttons
 wiki_folder: "wiki"
@@ -36,9 +36,6 @@ use_prose_io: true
 # - google : it uses cse search bar, you need to configure google_cse_token
 #
 search_engine : "js"
-# Setting google custom search engine for google
-# cse search bar (https://cse.google.it/cse/)
-google_cse_token: 
 
 # (string) path of site root. Normally it's must be empty because _config.yml resides in the root of your repository.
 # If you have _config.yml and your site in a subfolder, then change this config accordly 
