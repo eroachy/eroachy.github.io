@@ -9,7 +9,7 @@
 - ## [alternative to](https://alternativeto.net/)
 - ## [terminal trove](https://terminaltrove.com/explore)
 
-  # plain text essentials
+# plain text essentials
 - ## [plain text project](https://plaintextproject.online/tools.html)
 - ## [plain text world](https://plaintextworld.com/)
 - ## [sport scores](https://plaintextsports.com/)
