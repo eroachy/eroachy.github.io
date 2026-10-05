@@ -1,4 +1,5 @@
 # essentials
+- ## [tiddlywiki](https://tiddlyhost.com)
 - ## [forecast](https://wttr.in/)
 - ## [brolly forecast](https://brolly.sh/forecast/o66jPXCm)
 - ## [wkyt](https://www.wkyt.com/news/)
