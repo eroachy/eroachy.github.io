@@ -1,4 +1,6 @@
 # essentials
+- ## [linkhut daily usage linkies](https://ln.ht/~eroach/daily)
+- ## [linkhut whole feed](https://ln.ht/~eroach)
 - ## [tiddlywiki](https://tiddlyhost.com)
 - ## [forecast](https://wttr.in/)
 - ## [brolly forecast](https://brolly.sh/forecast/o66jPXCm)
